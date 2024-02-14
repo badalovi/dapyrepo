@@ -1,3 +1,5 @@
 This is a temporary file for the course
 
 This is a new line
+
+This is a third line
