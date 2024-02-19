@@ -15,3 +15,5 @@ This is a new change from remote repo.
 This is a new change from local repo to mybranch1
 
 This is another change from local repo to mybranch1
+
+This change is to create a synthetic git conflict.
