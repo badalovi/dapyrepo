@@ -14,4 +14,10 @@ This is a new change from remote repo.
 
 This is a new change from local repo to mybranch1
 
+
+
+Salamlar
+
+
+
 This is another change from local repo to mybranch1
