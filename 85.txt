@@ -1,0 +1,17 @@
+This is a temporary file for the course
+
+This is a new line
+
+This is a third line
+THis should be 1 second
+
+This is the change done in local
+This is a change done in github, remote repo.
+
+Another change via remote repo
+
+This is a new change from remote repo.
+
+This is a new change from local repo to mybranch1
+
+This is another change from local repo to mybranch1
